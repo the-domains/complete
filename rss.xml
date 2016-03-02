@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[COMPLETE]]></title>
         <description><![CDATA[COMPLETE]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/complete/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 18:54:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 02 Mar 2016 18:54:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/complete/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[COMPLETE (@completedrums) * Instagram photos and videos]]></title>
+            <description><![CDATA[<article><h1>COMPLETE (@completedrums) * Instagram photos and videos</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c5a439066b1c5388fb55f5e749cb34ef9b637eb0.jpg"></article>]]></description>
+            <link>https://www.instagram.com/completedrums/</link>
+            <guid isPermaLink="false">cea34408-e1d2-44a2-840a-5b55846d233a</guid>
+            <pubDate>Wed, 02 Mar 2016 18:54:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5e7c807-2ad6-48a8-a676-e7c80b35348a.jpg">]]></description>
