@@ -1,0 +1,28 @@
+name: COMPLETE
+favicon: null
+layout_spectrum: 0.9536370728164911
+typography_spectrum: 0.6903263069689274
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5358112344983965
+  lightness: 0.8132449502591044
+  saturation: 0.3454329778905958
+  rhythmicContrast: 0.24113377020694315
+purpose: []
