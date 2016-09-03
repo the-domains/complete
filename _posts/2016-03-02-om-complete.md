@@ -20,8 +20,8 @@ description: >-
   Gardes Musikk- og Drillkontingent og utgjør sammen en unik opplevelse for både
   ører og øyne. Complete gjør opptredener etter arrangørens ønsker og
   skreddersyr showet for hvert enkelt event.
-datePublished: '2016-08-31T16:03:13.629Z'
-dateModified: '2016-08-31T16:01:50.735Z'
+datePublished: '2016-08-31T16:03:25.249Z'
+dateModified: '2016-08-31T16:03:25.103Z'
 author: []
 related: []
 app_links: []
